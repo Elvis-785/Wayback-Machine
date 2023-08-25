@@ -1,1 +1,1 @@
-# Variables-
+Currently supported api
